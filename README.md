@@ -20,7 +20,7 @@ data-analysis-projects/
 └── 📱 project3_google_play/
     └── googleplay_analysis.ipynb
 
-
+🚀 Projects Overview
 🛍️ Project 1: Online Sales Analysis
 Objective: Clean and analyze real-world online sales data to discover hidden trends and identify top-performing products.
 
@@ -68,8 +68,11 @@ Data Manipulation: Pandas, NumPy
 Data Visualization: Matplotlib
 
 💻 How to Run & Explore
-1.Clone the Repository:git clone [https://github.com/Arian11z/data-analysis-projects.git](https://github.com/Arian11z/data-analysis-projects.git)
+Clone the Repository:
 
-2.Navigate & Launch: cd data-analysis-projects
-
-3.Open any .ipynb file using Jupyter Notebook, VS Code, or Google Colab to inspect the code and generated plots.
+Bash
+git clone [https://github.com/Arian11z/data-analysis-projects.git](https://github.com/Arian11z/data-analysis-projects.git)
+2. **Navigate & Launch:**
+   ```bash
+   cd data-analysis-projects
+Open any .ipynb file using Jupyter Notebook, VS Code, or Google Colab to inspect the code and generated plots.
